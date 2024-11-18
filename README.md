@@ -25,19 +25,15 @@ O Git é um sistema de controle de versão distribuído, essencial para o desenv
 | `git config` | Configura o Git. | `git config --global user.name "Seu Nome"` |
 **Fluxos de Trabalho**
 
-[Diagrama do Git Flow]
+## Dicas e Truques
 
-* **Git Flow:** Um modelo tradicional com branches para desenvolvimento, staging e produção.
-* **GitHub Flow:** Um modelo mais simples e direto, focado em branches de features e pull requests.
+* **Use aliases:** Crie atalhos para comandos longos, como `git config --global alias.co checkout`.
+* **Explore as opções:** Cada comando possui diversas opções que podem ser utilizadas para personalizar o seu fluxo de trabalho.
+* **Utilize o `git help <comando>`:** Para obter mais informações sobre um comando específico.
+* **Consulte a documentação oficial:** A documentação do Git é uma fonte valiosa de informações.
 
-**Dicas e Truques**
+## Recursos Adicionais
 
-* **Aliases:** Crie atalhos para comandos longos: `git config --global alias.co checkout`
-* **Hooks:** Automatize tarefas como formatação de código e testes.
-* **Visualização:** Use ferramentas como o GitKraken para uma interface gráfica.
-
-**Recursos Adicionais:**
-
-* **Documentação oficial:** [link para a documentação do Git]
-* **Tutoriais online:** [link para tutoriais interativos]
+* **Documentação Oficial do Git:** https://git-scm.com/doc
+* **Pro Git (livro gratuito):** https://git-scm.com/book/en/v2
 
