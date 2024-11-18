@@ -23,7 +23,6 @@ O Git é um sistema de controle de versão distribuído, essencial para o desenv
 | `git reset` | Reverte para um estado anterior. | `git reset --hard HEAD~1` |
 | `git stash` | Guarda as alterações temporariamente. | `git stash` |
 | `git config` | Configura o Git. | `git config --global user.name "Seu Nome"` |
-**Fluxos de Trabalho**
 
 ## Dicas e Truques
 
