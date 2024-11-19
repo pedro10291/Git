@@ -1,9 +1,5 @@
 ## Guia Rápido de Comandos Git
 
-**O que é Git?**
-
-O Git é um sistema de controle de versão distribuído, essencial para o desenvolvimento de software. Imagine-o como um pedreiro que constrói e modifica uma casa (seu projeto). Cada tijolo colocado e cada mudança feita são registradas, permitindo que você volte no tempo e veja como a casa era em qualquer momento.
-
 **Analogia da Construção:**
 
 | Comando | Descrição | Exemplo |
