@@ -32,3 +32,5 @@
 * **Documentação Oficial do Git:** https://git-scm.com/doc
 * **Pro Git (livro gratuito):** https://git-scm.com/book/en/v2
 
+![Animação legal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdhOWVpb20xYnlqZzIwNXN5MjVqcGxmMDVlc2NhZHlzMTJyYm5rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif)
+
